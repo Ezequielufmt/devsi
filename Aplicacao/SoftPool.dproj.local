@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>2019/07/20 16:09:28.000.474,=C:\Users\Ezquiel Silva\Documents\Embarcadero\Studio\Projects\Unit3.pas</Transaction>
+    <Transaction>2019/07/20 16:09:55.000.392,C:\Users\Ezquiel Silva\Documents\Embarcadero\Studio\Projects\Unit3.pas=E:\This PC\Projetos\Pool-Software\devsi\Aplicacao\View\frmPrincipal.pas</Transaction>
+    <Transaction>2019/07/20 16:09:55.000.392,C:\Users\Ezquiel Silva\Documents\Embarcadero\Studio\Projects\Unit3.dfm=E:\This PC\Projetos\Pool-Software\devsi\Aplicacao\View\frmPrincipal.dfm</Transaction>
+    <Transaction>2019/07/20 16:10:28.000.124,C:\Users\Ezquiel Silva\Documents\Embarcadero\Studio\Projects\Project2.dproj=E:\This PC\Projetos\Pool-Software\devsi\Aplicacao\SoftPool.dproj</Transaction>
+    <Transaction>2019/07/20 16:10:34.000.126,=E:\This PC\Projetos\Pool-Software\devsi\Aplicacao\Unit1.pas</Transaction>
+    <Transaction>2019/07/20 16:11:30.000.237,E:\This PC\Projetos\Pool-Software\devsi\Aplicacao\Unit1.pas=E:\This PC\Projetos\Pool-Software\devsi\Aplicacao\Model\classePessoa.pas</Transaction>
+    <Transaction>2019/07/20 16:11:37.000.140,=E:\This PC\Projetos\Pool-Software\devsi\Aplicacao\Unit1.pas</Transaction>
+    <Transaction>2019/07/20 16:11:58.000.872,E:\This PC\Projetos\Pool-Software\devsi\Aplicacao\Unit1.pas=E:\This PC\Projetos\Pool-Software\devsi\Aplicacao\Controller\controlePessoa.pas</Transaction>
+  </Transactions>
+</BorlandProject>

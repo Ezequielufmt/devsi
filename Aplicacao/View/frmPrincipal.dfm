@@ -1,0 +1,72 @@
+object Form3: TForm3
+  Left = 0
+  Top = 0
+  Caption = 'SoftPool - v.1'
+  ClientHeight = 1037
+  ClientWidth = 1872
+  Color = clBtnFace
+  Font.Charset = DEFAULT_CHARSET
+  Font.Color = clWindowText
+  Font.Height = -22
+  Font.Name = 'Tahoma'
+  Font.Style = []
+  Menu = MainMenu1
+  OldCreateOrder = False
+  Position = poScreenCenter
+  OnCreate = FormCreate
+  PixelsPerInch = 96
+  TextHeight = 27
+  object SpeedButton1: TSpeedButton
+    Left = 480
+    Top = 376
+    Width = 89
+    Height = 57
+  end
+  object Panel1: TPanel
+    Left = 0
+    Top = 0
+    Width = 1872
+    Height = 57
+    Align = alTop
+    Caption = 'Panel1'
+    Font.Charset = DEFAULT_CHARSET
+    Font.Color = clWindowText
+    Font.Height = 14
+    Font.Name = 'Tahoma'
+    Font.Style = []
+    ParentFont = False
+    TabOrder = 0
+    ExplicitWidth = 185
+  end
+  object BitBtn1: TBitBtn
+    Left = 472
+    Top = 272
+    Width = 75
+    Height = 25
+    Caption = 'BitBtn1'
+    TabOrder = 1
+  end
+  object MainMenu1: TMainMenu
+    AutoLineReduction = maManual
+    Left = 208
+    Top = 224
+    object Inicio1: TMenuItem
+      Caption = 'Inicio'
+    end
+    object GErenciar1: TMenuItem
+      Caption = 'Gerenciar'
+    end
+    object Oramento1: TMenuItem
+      Caption = 'Or'#231'amento'
+    end
+    object Compra1: TMenuItem
+      Caption = 'Compra'
+    end
+    object Relatrio1: TMenuItem
+      Caption = 'Relat'#243'rio'
+    end
+    object Configurao1: TMenuItem
+      Caption = 'Configura'#231#227'o'
+    end
+  end
+end
